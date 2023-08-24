@@ -36,7 +36,7 @@ Android app development, clean architecture, and best practices for building use
 
 - GitHub: [github.com/mohamadp91](https://github.com/mohamadp91)
 - LinkedIn: [linkedin.com/in/mohamadp91](https://www.linkedin.com/in/mohammad-papi-8b7078286/)
-- Email: john.doe@email.com
+- Email: mohamad.papi.79@gmail.com
 
 ## ⚡ Fun Fact
 
