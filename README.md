@@ -1,16 +1,46 @@
-### Hi there 👋
+# Mohamad Papi
 
-<!--
-**mohamadp91/mohamadp91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Hello there! I'm Mohammad Papi, a passionate software engineer with a knack for crafting clean and impactful
+solutions. Let's connect and collaborate!
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm dedicated to continuous learning and enhancing my skills in various domains of software development. Whether it's
+Android app development, server-side programming, or exploring web and desktop technologies, I'm always eager to expand
+my knowledge.
+
+- 🚀 Android App Development | Kotlin | Java | Jetpack
+- 💡 Clean Architecture | MVVM Design Pattern
+- 🌐 Basic knowledge in Web Development | HTML | CSS | JavaScript | React | Angular
+- 💻 Basic knowledge in Desktop Development | C++ | Qt
+- 🌍 Open-Source Advocate | Collaboration Enthusiast
+
+## GitHub Stats
+
+![Mohammad Papi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohamadp91&show_icons=true&theme=radical)
+
+
+## 🌱 I'm Currently Learning
+
+I'm currently focused on enhancing my knowledge in Android programming with Jetpack Compose.
+
+## 👯 I'm Looking to Collaborate On
+
+Exciting open-source projects that involve innovative solutions.
+
+## 💬 Ask Me About
+
+Android app development, clean architecture, and best practices for building user-friendly interfaces.
+
+## 📫 How to Reach Me
+
+- GitHub: [github.com/mohamadp91](https://github.com/mohamadp91)
+- LinkedIn: [linkedin.com/in/mohamadp91](https://www.linkedin.com/in/mohammad-papi-8b7078286/)
+- Email: john.doe@email.com
+
+## ⚡ Fun Fact
+
+- I'm an avid football fan!
+- I have a keen interest in digital marketing and social media marketing.
+
+Let's collaborate and make an impact together!
